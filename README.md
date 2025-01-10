@@ -1,5 +1,5 @@
 # TicTacToe
-Python basic project
+This project implements a fully interactive TicTacToe game in Python, where two players take turns placing their markers ("X" and "O") on a 3x3 grid until one wins or the game ends in a draw. Key features of the project include board setup, user input validation, and game logic to ensure smooth gameplay.
 ## Setup (print) the board
 Print the board based on board list.
 ```Python
